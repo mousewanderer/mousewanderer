@@ -2,10 +2,13 @@
 - 👀 I’m looking to forward to meet people who are interested in coding and robotics
 - 🌱 I’m currently learning data structures and algorithms
 - 🌱 Aiming to learn typescript
+- 🌱 Aiming to learn Ardiuno stuff
 
+Achievements
 - ✨ Manage to have 3 python related certificates in Kaggle
 - ✨ I learned the fundamentals of C#, SQL and C++.
 - ✨ Got Third place in technical drafting contest
+- ✨ Able to do simple Frontend Webdevelopment
 
 
 + Additonal skill set (Technical based)
@@ -15,7 +18,15 @@
 
 
 + Additonal skill set (Academic based)
-⭐Learned Pre caluclus and Basic Calculus
+⭐ Learned Pre caluclus and Basic Calculus
+⭐ Capable to make an academic research papers and thesis
+⭐ Learned Statistics and probability 
+
+
+ + Unrelated achievements
+❗Got a certification on Digital marketing on Google 
+❗Got More than a 1000 followers on Tiktok
+
 
 
 
