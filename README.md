@@ -7,7 +7,6 @@
 Achievements
 - ✨ Manage to have 3 python related certificates in Kaggle
 - ✨ I learned the fundamentals of C#, SQL and C++.
-- ✨ Got Third place in technical drafting contest
 - ✨ Able to do simple Frontend Webdevelopment
 
 
