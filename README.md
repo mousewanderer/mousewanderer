@@ -4,10 +4,9 @@
 
 
 - 💀 Currently on Villain Arc
-- 
 (Deleted Content)
 
-My Mission is to Elinimate a certain individual
+My Mission is to Elinimate a certain individual that ruin my entire life
 
  Note: nobody shall know what I type on this platfrom
 <!---
