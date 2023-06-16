@@ -4,35 +4,10 @@
 
 
 - 💀 Currently on Villain Arc
+- 
+(Deleted Content)
 
-
-
-Achievements
-- ✨ Manage to have 3 python related certificates in Kaggle
-- ✨ I learned the fundamentals of C#, SQL and C++
-
-
-
-Competetion based achivement
-🏆1st place in Divison level in Research studies
-🏆3rd place in Divison level in Technical drafting
-
-
-
-+ Additonal skill set (Technical based)
-⭐Capable to utilize a spreadsheet such as Excel
-⭐Under went training in Technical drafting with the use of Autocad for drafting Architecture design
-⭐Explore tools for Game development such as Blender and Godot for 3d designs and functions
-
-
- + Unrelated achievements
-❗Got a certification on Digital marketing on Google 
-❗Got More than a 1200 followers on Tiktok
-
-
-
-
-Mission is 
+My Mission is to Elinimate a certain individual
 
  Note: nobody shall know what I type on this platfrom
 <!---
