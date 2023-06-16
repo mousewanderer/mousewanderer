@@ -1,16 +1,20 @@
 - 👋 Hi, I’m @mousewanderer
 - 👀 I’m looking to forward to meet people who are interested in coding and robotics
-- 🌱 I’m currently learning data structures and algorithms
-- 🌱 Aiming to learn typescript
-- 🌱 Aiming to learn Ardiuno stuff
+- 🌱 I’m currently learning Introductionn to Hardware 
+
+
+- 💀 Currently on Villain Arc
+
+
 
 Achievements
 - ✨ Manage to have 3 python related certificates in Kaggle
-- ✨ I learned the fundamentals of C#, SQL and C++.
-- ✨ Able to do simple Frontend Webdevelopment
+- ✨ I learned the fundamentals of C#, SQL and C++
+
+
 
 Competetion based achivement
-🏆1st place in Divison level in research studies
+🏆1st place in Divison level in Research studies
 🏆3rd place in Divison level in Technical drafting
 
 
@@ -21,13 +25,6 @@ Competetion based achivement
 ⭐Explore tools for Game development such as Blender and Godot for 3d designs and functions
 
 
-
-+ Additonal skill set (Academic based)
-⭐ Learned Pre caluclus and Basic Calculus
-⭐ Capable to make an academic research papers and thesis
-⭐ Learned Statistics and probability 
-
-
  + Unrelated achievements
 ❗Got a certification on Digital marketing on Google 
 ❗Got More than a 1200 followers on Tiktok
@@ -35,9 +32,7 @@ Competetion based achivement
 
 
 
-My goal is to learn machine learning and became a data scientist
-I am aiming to achieve my goals and improve my skill set. And I am also forgetful
-
+Mission is 
 
  Note: nobody shall know what I type on this platfrom
 <!---
