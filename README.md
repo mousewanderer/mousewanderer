@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mousewanderer
 - 👀 I’m looking to forward to meet people who are interested in coding and robotics
 - 🌱 I’m currently learning Introductionn to Hardware
-- 🌱 Rookie Level in Engineering 
 - ✨ Computer Engineering student 
 <!---
 mousewanderer/mousewanderer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
