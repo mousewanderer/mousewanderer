@@ -5,7 +5,7 @@
 - ✨ Use Python as Main and Knows HTML/CSS, Java, C++ and C#
 - 🔫 Weapons enthusiast
 - ♔ Chess Player ♖♗♘♙
- -______OLPs______
+- ______OLPs______
   - Kag - 3
   - Bit - 5
   - Great - 9
