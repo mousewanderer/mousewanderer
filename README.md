@@ -9,7 +9,7 @@ Currently BSCpE 2nd year (I hope no fail).
 
 🎮 I love Hearts of Iron 4
 
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=red)
+![Codewars](https://github.r2v.ch/codewars?user=mousewanderer&stroke=red)
 
 <!---
 mousewanderer/mousewanderer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
