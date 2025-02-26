@@ -1,8 +1,15 @@
 👋 Hi, I’m @mousewanderer from Agartha
-Currently 2nd year (I hope no fail)
+![](https://komarev.com/ghpvc/?username=mousewanderer&color=orange)
+
+Currently BSCpE 2nd year (I hope no fail).
 
 ✨Nevermind I am very screwed this semester
+
+
+
 🎮 I love Hearts of Iron 4
+
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=red)
 
 <!---
 mousewanderer/mousewanderer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
