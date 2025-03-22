@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=mousewanderer&color=orange)
-👋 Hi, I’m @mousewanderer from Agartha
+👋 Hi, I’m @mousewanderer from Agartha 
 
 😇 Currently BSCpE 2nd year (I hope no fail). 
 
@@ -12,7 +12,7 @@
 
 🎮 I love Hearts of Iron 4
 
-
+MISSION: DESTROY Stubborn Nasty Trippers
 # 💡Code Wars
 ![Codewars](https://github.r2v.ch/codewars?user=mousewanderer&stroke=red)
 
