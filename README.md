@@ -10,9 +10,11 @@
 ✨I am very screwed this semester.
 
 
-🎮 I love Hearts of Iron 4
+🎮 I love Hearts of Iron 4 and Minecraft
 
-MISSION: DESTROY Stubborn Nasty Trippers
+MISSION: DESTROY Stubborn Nasty Tyrants and their supporters too
+
+
 # 💡Code Wars
 ![Codewars](https://github.r2v.ch/codewars?user=mousewanderer&stroke=red)
 
