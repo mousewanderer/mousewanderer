@@ -4,7 +4,7 @@
 👋 Hi, I’m @mousewanderer from Agartha 
 
 
-😇 Currently BSCpE 2nd year (I hope no fail). 
+😇Member of the Redstone Research Unit
 
 
 ☕ I love Coffee or any caffininated drink
@@ -15,7 +15,7 @@
 
 🎮 I love Hearts of Iron 4 and Minecraft
 
-MISSION: DESTROY Stubborn Nasty Tyrants and their supporters too
+
 
 
 # 💡Code Wars
