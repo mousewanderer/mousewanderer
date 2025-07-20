@@ -10,7 +10,7 @@
 ☕ I love Coffee or any caffininated drink
 
 
-✨There is still hope for computer engineers
+✨There is still hope for engineers
 
 
 🎮 I love Hearts of Iron 4 and Minecraft
