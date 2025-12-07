@@ -9,20 +9,10 @@
 
 
 
-  <img src="https://raw.githubusercontent.com/mousewanderer/mousewanderer/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mousewanderer/mousewanderer/output/snake.svg" alt="Snake animation" />
 
-###
-
-<details>
-### Imperial Objectives
-- 🕳️ Annex gray rat lair  
-- 🌾 Annex grassy moles in swamp  
-- 🐭 Annex hidden farm rodents  
-- 🦉 Defeat all predators  
-- 📣 Proclaim the Greater Wandering Empire  
 
 ---
-
 👋 Hi, I’m **@mousewanderer** from **Agartha**  
 
 😇 Member of the **Redstone Research Unit**  
@@ -36,7 +26,6 @@
 ![Codewars](https://github.r2v.ch/codewars?user=mousewanderer&stroke=red)
 
 ---
-
 # 💻 Tech Stack
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -66,3 +55,23 @@
 <p align="center">
   <sub>“Small paws, big plans.”</sub>
 </p>
+
+
+###
+
+<details>
+### Imperial Objectives
+- 🕳️ Annex gray rat lair  
+- 🌾 Annex grassy moles in swamp  
+- 🐭 Annex hidden farm rodents  
+- 🦉 Defeat all predators  
+- 📣 Proclaim the Greater Wandering Empire  
+
+---
+
+👋 Hi, I’m **@mousewanderer** from **Agartha**  
+
+😇 Member of the **Redstone Research Unit**  
+☕ Fueled by coffee (or any caffeinated drink)  
+✨ Firm believer that there is still hope for us
+🎮 Fan of **Hearts of Iron IV** and **Minecraft**  
