@@ -9,7 +9,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/mousewanderer/mousewanderer/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Animation](https://raw.githubusercontent.com/mousewanderer/<your-repo>/output/github-snake.svg)
 
 
 ---
