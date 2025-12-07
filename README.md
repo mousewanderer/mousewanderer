@@ -9,7 +9,11 @@
 
 
 
-  
+  <img src="https://raw.githubusercontent.com/mousewanderer/mousewanderer/output/snake.svg" alt="Snake animation" />
+
+###
+
+<details>
 ### Imperial Objectives
 - 🕳️ Annex gray rat lair  
 - 🌾 Annex grassy moles in swamp  
