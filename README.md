@@ -47,15 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mousewanderer&theme=merko&hide_border=false&show_icons=true)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mousewanderer&theme=merko&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mousewanderer&theme=merko&hide_border=false&layout=compact)
-
----
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
