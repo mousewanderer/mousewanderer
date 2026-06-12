@@ -18,7 +18,6 @@
 👋 Hi, I’m **@mousewanderer** from **Agartha**  
 😇 Member of the **Redstone Research Unit**  
 ☕ Fueled by coffee (or any caffeinated drink)  
-✨ Firm believer that there is still hope for us  
 🎮 Fan of **Hearts of Iron IV** and **Minecraft**
 
 <p align="center">
