@@ -59,6 +59,6 @@
 - 🌾 Annex grassy mole swamps  
 - 🐭 Annex hidden farm rodents  
 - 🦉 Defeat all predators  
-- 📣 Proclaim the **Greater Wandering Empire**
+- 📣 Proclaim the **Greater Austrian Empire**
 
 </details>
