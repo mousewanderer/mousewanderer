@@ -62,4 +62,4 @@
 </details>
 
 
-currently summer internship - dost
+currently summer internship - dost- php - sql, laravel, xammp, stress and Claude leverage
