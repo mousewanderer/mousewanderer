@@ -63,3 +63,4 @@
 
 
 Status: DONE - (summer internship - dost- php - sql, laravel, xammp, stress and Claude leverage)
+THESIS NOOOOOOOO
